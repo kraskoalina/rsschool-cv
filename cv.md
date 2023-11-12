@@ -4,6 +4,7 @@ Alina Krasko ![photo](https://sun9-67.userapi.com/impf/c851528/v851528887/1aad5b
 ## Contact Information
 * e-mail: alina.leonova1992@gmail.com
 * GitHub account: kraskoalina
+* Adress: Poland, Walbrzych
 ## Self-Introduction
 I am excited about the dynamic nature of the tech industry and am committed to staying abreast of emerging trends. I am confident that my combination of academic background, practical experience, and ongoing commitment to learning makes me a valuable candidate for opportunities in the field of front end development
 ## Skills
