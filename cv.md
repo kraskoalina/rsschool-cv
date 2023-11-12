@@ -1,6 +1,6 @@
 # CV
 ## Name
-Alina Krasko ![photo](https://sun9-49.userapi.com/impf/c851128/v851128700/1e926f/ol8jHAcCqpI.jpg?size=1280x853&quality=96&sign=f0e0fb83a11f5e53d5a9fd2ecdcc2b3f&type=album)
+Alina Krasko ![photo](https://sun9-67.userapi.com/impf/c851528/v851528887/1aad5b/_yNMfl4nksw.jpg?size=2560x1709&quality=96&sign=b6edbf52de2f647428e91bcd0d1a1b25&type=album)
 ## Contact Information
 * e-mail: alina.leonova1992@gmail.com
 * GitHub account: kraskoalina
